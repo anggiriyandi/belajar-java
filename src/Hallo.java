@@ -1,3 +1,4 @@
+package belajar.java.fundamental;
 public class Hallo {
 	private String nama = "anggi";
 
